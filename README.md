@@ -1,6 +1,6 @@
 #  Sistema de Vendas e Estoque (terminal)
 
-Sistema simples em Python, executado no terminal, para controlar o estoque de uma loja pequena, montar um carrinho de compras, aplicar desconto e frete e finalizar a venda.
+Sistema em Python, executado no terminal feito com aprendizados de aula, para controlar o estoque de uma loja pequena, montar um carrinho de compras, aplicar desconto e frete e finalizar a venda.
 
 ##  Funcionalidades
 
